@@ -11,11 +11,11 @@ if(isset($_POST['submit'])){
         echo "<b>Result:</b><br>";
         echo $value1-$value2;
     }
-    if($action=="multiplication"){
+    if($action=="Multiplication"){
         echo "<b>Result:</b><br>";
         echo $value1*$value2;
     }
-    if($action=="division"){
+    if($action=="Division"){
         echo "<b>Result:</b><br>";
         echo $value1/$value2;
     }
