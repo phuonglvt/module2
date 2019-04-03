@@ -8,8 +8,8 @@
 
     <select name='action'></br>
         <option>Addition</option>
-        <option>Subtraction</option>
         <option>Multiplication</option>
+        <option>Subtraction</option>
         <option>Division</option>
     </select></br>
 
