@@ -24,7 +24,7 @@ if(isset($_POST['submit'])){
             if($value2 === 0) {
                 throw new Exception("Can't division by 0");
             }
-            echo "<b>Result:</b><br>";
+            echo "<b>Result: </b>";
             echo $value1 / $value2;
         } catch(Exception $e) {
             echo 'Message: ' .$e->getMessage();
