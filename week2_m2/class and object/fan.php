@@ -24,7 +24,7 @@ class fanMachine
         return $this->speed;
     }
 
-    public function isSet()
+    public function getStatus()
     {
         return $this->switch;
     }
@@ -43,7 +43,7 @@ class fanMachine
 
 $fan = new fanMachine();
 $fan->setFan(medium, 4, "black", false);
-if ($fan->isSet() === true) {
+if ($fan->getStatus() === true) {
     echo "Fan is turn on" . "<br>";
     echo "Speed: " . $fan->getSpeed() . "<br>";
     echo "Radius: " . $fan->getRadius() . "<br>";
