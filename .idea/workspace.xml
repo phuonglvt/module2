@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8da5f5cc-3b21-40f7-ad58-32bcc438fd50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2_m2/class and object/fan.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +11,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week2_m2/class and object/stopWatch/stopWatch.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week2_m2/class and object/fan.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="536">
+              <caret line="52" column="49" lean-forward="true" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/week2_m2" />
@@ -63,6 +81,8 @@
         <option value="$PROJECT_DIR$/week2_m2/rectangle/index.php" />
         <option value="$PROJECT_DIR$/week2_m2/phuongtrinhbachai/giaiPt.php" />
         <option value="$PROJECT_DIR$/week2_m2/stopWatch/stopWatch.php" />
+        <option value="$PROJECT_DIR$/week2_m2/class and object/stopWatch/stopWatch.php" />
+        <option value="$PROJECT_DIR$/week2_m2/class and object/fan.php" />
       </list>
     </option>
   </component>
@@ -99,6 +119,13 @@
               <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
               <item name="week2_m2" type="462c0819:PsiDirectoryNode" />
               <item name="class and object" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
+              <item name="week2_m2" type="462c0819:PsiDirectoryNode" />
+              <item name="class and object" type="462c0819:PsiDirectoryNode" />
+              <item name="stopWatch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -141,15 +168,16 @@
       <workItem from="1554307279814" duration="599000" />
       <workItem from="1554341543364" duration="8153000" />
       <workItem from="1554426667904" duration="2783000" />
-      <workItem from="1554689449519" duration="3263000" />
+      <workItem from="1554689449519" duration="4132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27880000" />
+    <option name="totallyTimeSpent" value="28749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26442954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -199,7 +227,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/thuchanh.php" />
     <entry file="file://$PROJECT_DIR$/tuan1_module2/tuan1_module2/index.php" />
     <entry file="file://$PROJECT_DIR$/tuan1_module2/index.php" />
     <entry file="file://$PROJECT_DIR$/week1_m2/loginGet.php" />
@@ -419,6 +446,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2_m2/class and object/stopWatch/stopWatch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2_m2/class and object/fan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="52" column="49" lean-forward="true" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
         </state>
       </provider>
     </entry>
