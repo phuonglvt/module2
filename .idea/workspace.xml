@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8da5f5cc-3b21-40f7-ad58-32bcc438fd50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/week1_m2/loginPost.php" beforeDir="false" afterPath="$PROJECT_DIR$/week1_m2/loginPost.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,39 +12,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week1_m2/loginPost.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#h2#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#h2#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#h2#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#h2#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week1_m2/loginGet.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="36" column="7" lean-forward="true" selection-start-line="18" selection-end-line="36" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#h2#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#h2#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/week2_m2" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -54,16 +26,56 @@
         <option value="$PROJECT_DIR$/week1_m2/login.php" />
         <option value="$PROJECT_DIR$/week1_m2/loginGet.php" />
         <option value="$PROJECT_DIR$/week1_m2/loginPost.php" />
+        <option value="$PROJECT_DIR$/week1_m2/listCustumers.php" />
+        <option value="$PROJECT_DIR$/week1_m2/tuDien.php" />
+        <option value="$PROJECT_DIR$/week1_m2/futureValueCalculator.php" />
+        <option value="$PROJECT_DIR$/week1_m2/readNum.php" />
+        <option value="$PROJECT_DIR$/week1_m2/productDiscount.php" />
+        <option value="$PROJECT_DIR$/week1_m2/product_Discount.php" />
+        <option value="$PROJECT_DIR$/week1_m2/soNguyenTo.php" />
+        <option value="$PROJECT_DIR$/week1_m2/calculator.php" />
+        <option value="$PROJECT_DIR$/week1_m2/calculator_.php" />
+        <option value="$PROJECT_DIR$/week1_m2/soNguyenToDau.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/style.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/locDS.php" />
+        <option value="$PROJECT_DIR$/week1_m2/tổng quan về php/calculator_.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/header.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/nav.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/content.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/footer.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/index.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/style.css" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/taoLayout.php" />
+        <option value="$PROJECT_DIR$/week1_m2/tổng quan về php/chuyendoitiente.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/data.json" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/register.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/minimum.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/xoaphantutrongmang.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/gopMang.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/demkytutrong chuoi.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/tongMotCot.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/tongduongcheo.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/thongbaokhonghople.php" />
+        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/maxInArray.php" />
+        <option value="$PROJECT_DIR$/week2_m2/classAndObject/thuchanh.php" />
+        <option value="$PROJECT_DIR$/week2_m2/index.php" />
+        <option value="$PROJECT_DIR$/week2_m2/buildRectangle.php" />
+        <option value="$PROJECT_DIR$/week2_m2/rectangle/index.php" />
+        <option value="$PROJECT_DIR$/week2_m2/phuongtrinhbachai/giaiPt.php" />
+        <option value="$PROJECT_DIR$/week2_m2/stopWatch/stopWatch.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1005" />
+    <option name="y" value="67" />
+    <option name="width" value="974" />
     <option name="height" value="980" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -80,7 +92,13 @@
             <path>
               <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
               <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
-              <item name="week1_m2" type="462c0819:PsiDirectoryNode" />
+              <item name="week2_m2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
+              <item name="week2_m2" type="462c0819:PsiDirectoryNode" />
+              <item name="class and object" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -91,8 +109,10 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php/php.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -116,25 +136,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554172886153</updated>
-      <workItem from="1554172888677" duration="2563000" />
+      <workItem from="1554172888677" duration="4772000" />
+      <workItem from="1554254993599" duration="8310000" />
+      <workItem from="1554307279814" duration="599000" />
+      <workItem from="1554341543364" duration="8153000" />
+      <workItem from="1554426667904" duration="2783000" />
+      <workItem from="1554689449519" duration="3263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2563000" />
+    <option name="totallyTimeSpent" value="27880000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="20" width="1400" height="784" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26442954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -142,58 +161,264 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26492536" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/thuchanh.php">
+    <entry file="file://$PROJECT_DIR$/thuchanh.php" />
+    <entry file="file://$PROJECT_DIR$/tuan1_module2/tuan1_module2/index.php" />
+    <entry file="file://$PROJECT_DIR$/tuan1_module2/index.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/loginGet.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/login.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/listCustumers.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/index.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/futureValueCalculator.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/tuDien.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/readNum.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/productDiscount.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/product_Discount.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/calculator.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/calculator_.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/soNguyenTo.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/soNguyenToDau.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/style.css" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/locDS.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/tổng quan về php/productDiscount.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/tổng quan về php/product_Discount.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/tổng quan về php/calculator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/tổng quan về php/calculator_.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="168" selection-start-line="2" selection-start-column="168" selection-end-line="2" selection-end-column="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
+          <folding>
+            <element signature="e#10#16#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="7" selection-start-line="29" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="44" lean-forward="true" selection-start-column="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/taoLayout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/tổng quan về php/chuyendoitiente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/data.json" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/register.php" />
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/min.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/minimum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/thongbaokhonghople.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../php/pear/PHP/CodeCoverage/Version.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <element signature="e#2050#2444#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/tongduongcheo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/gopMang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/maxInArray.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/demkytutrong chuoi.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tuan1_module2/tuan1_module2/index.php">
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/tongMotCot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/xoaphantutrongmang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="22" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2_m2/classAndObject/thuchanh.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2_m2/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tuan1_module2/index.php">
+    <entry file="file://$PROJECT_DIR$/week2_m2/buildRectangle.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week1_m2/loginGet.php">
+    <entry file="file://$PROJECT_DIR$/week2_m2/rectangle/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="36" column="7" lean-forward="true" selection-start-line="18" selection-end-line="36" selection-end-column="7" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2_m2/rectangle/buildRectangle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="2" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2_m2/phuongtrinhbachai/giaiPt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#h2#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#h2#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#2;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week1_m2/loginPost.php">
+    <entry file="file://$PROJECT_DIR$/week2_m2/stopWatch/stopWatch.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#h2#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#h2#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#h2#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#h2#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
         </state>
       </provider>
     </entry>
