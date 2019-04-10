@@ -37,12 +37,14 @@ class Point2D{
         return "($this->x,$this->y)";
     }
 }
-include_once ('point3D.php');
-$run = new Point2d(10, 20);
+
+$run = new Point2D(12, 40);
 foreach ($run->getXY() as $value => $key) {
     echo $value . "=" . $key . "</br>";
 }
-$run2 = new Point3d();
+
+include_once ('point3D.php');
+$run2 = new Point3D();
 $run2->setXYZ(20, 40, 50);
 foreach ($run2->getXYZ() as $value => $key) {
     echo $value . "=" . $key . "</br>";

@@ -40,11 +40,13 @@ class Point
     }
 }
 
-include_once ('movePoint.php');
+
 $run = new Point(10, 20);
 foreach ($run->getXY() as $value => $key) {
     echo $value . "=" . $key . "</br>";
 }
+
+include_once ('movePoint.php');
 $run2 = new MoveablePoint();
 $run2->setSpeed(20, 30, 50, 70);
 $run2->move();//20+50,40+70
