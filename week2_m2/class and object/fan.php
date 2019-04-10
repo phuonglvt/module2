@@ -42,7 +42,7 @@ class fanMachine
 }
 
 $fan = new fanMachine();
-$fan->setFan(medium, 4, "black", false);
+$fan->setFan(medium, 4, "red", false);
 if ($fan->getStatus() === true) {
     echo "Fan is turn on" . "<br>";
     echo "Speed: " . $fan->getSpeed() . "<br>";
