@@ -49,7 +49,7 @@ foreach ($run->getXY() as $value => $key) {
 include_once ('movePoint.php');
 $run2 = new MoveablePoint();
 $run2->setSpeed(20, 30, 50, 70);
-$run2->move();//20+50,40+70
+$run2->move();
 foreach ($run2->getSpeed() as $value => $key) {
     echo $value . "=" . $key . "</br>";
 }
