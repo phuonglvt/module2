@@ -14,7 +14,6 @@
       <change afterPath="$PROJECT_DIR$/week2_m2/Inheritance/point2D and point3D/point3D.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week2_m2/Inheritance/triangle/triangle.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week2_m2/class and object/fan.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,20 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week2_m2/Inheritance/triangle/triangle.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week2_m2/Inheritance/point và movePoint/movePoint.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="17">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2_m2/Inheritance/triangle/shape.php">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week2_m2/Inheritance/point và movePoint/point.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="349">
+              <caret line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -50,7 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/week1_m2/futureValueCalculator.php" />
         <option value="$PROJECT_DIR$/week1_m2/readNum.php" />
         <option value="$PROJECT_DIR$/week1_m2/productDiscount.php" />
         <option value="$PROJECT_DIR$/week1_m2/product_Discount.php" />
@@ -100,6 +98,7 @@
         <option value="$PROJECT_DIR$/week2_m2/Inheritance/point và movePoint/movePoint.php" />
         <option value="$PROJECT_DIR$/week2_m2/Inheritance/point và movePoint/point.php" />
         <option value="$PROJECT_DIR$/week2_m2/Inheritance/triangle.php" />
+        <option value="$PROJECT_DIR$/week2_m2/Inheritance/triangle/shape.php" />
         <option value="$PROJECT_DIR$/week2_m2/Inheritance/triangle/triangle.php" />
       </list>
     </option>
@@ -142,7 +141,7 @@
               <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
               <item name="week2_m2" type="462c0819:PsiDirectoryNode" />
               <item name="Inheritance" type="462c0819:PsiDirectoryNode" />
-              <item name="triangle" type="462c0819:PsiDirectoryNode" />
+              <item name="point và movePoint" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -187,15 +186,15 @@
       <workItem from="1554341543364" duration="8153000" />
       <workItem from="1554426667904" duration="2783000" />
       <workItem from="1554689449519" duration="4924000" />
-      <workItem from="1554861946556" duration="3277000" />
+      <workItem from="1554861946556" duration="3992000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32818000" />
+    <option name="totallyTimeSpent" value="33533000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26845637" />
@@ -493,20 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2_m2/Inheritance/point và movePoint/point.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2_m2/Inheritance/point và movePoint/movePoint.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week2_m2/Inheritance/point2D and point3D/point3D.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -523,15 +508,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week2_m2/Inheritance/triangle/shape.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="119">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week2_m2/Inheritance/triangle/triangle.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="213">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2_m2/Inheritance/point và movePoint/movePoint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2_m2/Inheritance/point và movePoint/point.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>

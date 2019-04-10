@@ -2,8 +2,8 @@
 class Point
 
 {
-    public $x;
-    public $y;
+    protected $x;
+    protected $y;
 
     public function __construct($x=0.0, $y=0.0){
         $this->x = $x;
@@ -40,7 +40,7 @@ class Point
     }
 }
 
-include_once ('movePoint.php')
+include_once ('movePoint.php');
 $run = new Point(10, 20);
 foreach ($run->getXY() as $value => $key) {
     echo $value . "=" . $key . "</br>";

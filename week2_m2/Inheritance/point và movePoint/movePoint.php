@@ -1,4 +1,5 @@
 <?php
+include_once ('point.php');
 class MoveablePoint extends Point
 {
     private $xSpeed;
