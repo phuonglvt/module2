@@ -30,3 +30,4 @@ class Point3D extends Point2D{
         return "($this->x,$this->y,$this->z)";
     }
 }
+?>

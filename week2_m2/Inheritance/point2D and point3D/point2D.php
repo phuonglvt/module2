@@ -39,13 +39,15 @@ class Point2D{
 }
 
 $run = new Point2D(12, 40);
-foreach ($run->getXY() as $value => $key) {
-    echo $value . "=" . $key . "</br>";
+foreach ($run->getXY() as $value => $result) {
+    echo $value . "=" . $result . "</br>";
 }
 
 include_once ('point3D.php');
+
 $run2 = new Point3D();
 $run2->setXYZ(20, 40, 50);
-foreach ($run2->getXYZ() as $value => $key) {
-    echo $value . "=" . $key . "</br>";
+foreach ($run2->getXYZ() as $value => $result) {
+    echo $value . "=" . $result . "</br>";
 }
+?>
