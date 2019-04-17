@@ -8,12 +8,14 @@ class LinkList
     private $lastNode;
 
     private $count;
+
     function __construct()
     {
         $this->firstNode = NULL;
         $this->lastNode = NULL;
         $this->count = 0;
     }
+
     public function insertFirst($data)
     {
         $link = new Node($data);
@@ -24,6 +26,7 @@ class LinkList
             $this->lastNode = $link;
         $this->count++;
     }
+
     public function insertLast($data)
     {
         if($this->firstNode != NULL)
@@ -39,10 +42,12 @@ class LinkList
             $this->insertFirst($data);
         }
     }
+
     public function totalNodes()
     {
         return $this->count;
     }
+
     public function readList()
     {
         $listData = array();
