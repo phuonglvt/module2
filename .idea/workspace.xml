@@ -2,40 +2,128 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8da5f5cc-3b21-40f7-ad58-32bcc438fd50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/Comparable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/ComparableCircle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/ComparableCircleMain.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/circle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/Resizeable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/circle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/colorable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/cylinder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/rectangle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/shape.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/square.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/Animal and interface Edible.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/animal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/apple.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/chicken.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/edible.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/fruit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/orange.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/tiger.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/demo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Inheritance/circle and cylinder/circle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Inheritance/circle and cylinder/cylinder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Inheritance/he doi tuong hinh hoc/circle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Inheritance/he doi tuong hinh hoc/cylinder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Inheritance/he doi tuong hinh hoc/rectangle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Inheritance/he doi tuong hinh hoc/square.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Inheritance/point và movePoint/movePoint.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Inheritance/point và movePoint/point.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Inheritance/point2D and point3D/point2D.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Inheritance/point2D and point3D/point3D.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/Inheritance/triangle/triangle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2_m2/class and object/fan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/Comparator/Comparable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/Comparator/ComparableCircle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/Comparator/ComparableCircleMain.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/Comparator/circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/Resizeable/Resizeable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/Resizeable/circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/Resizeable/colorable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/Resizeable/cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/Resizeable/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/Resizeable/rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/Resizeable/shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/Resizeable/square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/class Animal và interface Edible/Animal and interface Edible.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/class Animal và interface Edible/animal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/class Animal và interface Edible/apple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/class Animal và interface Edible/chicken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/class Animal và interface Edible/edible.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/class Animal và interface Edible/fruit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/class Animal và interface Edible/orange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/class Animal và interface Edible/tiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Advanced Object Oriented Design/demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Inheritance/circle and cylinder/circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Inheritance/circle and cylinder/cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Inheritance/he doi tuong hinh hoc/circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Inheritance/he doi tuong hinh hoc/cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Inheritance/he doi tuong hinh hoc/rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Inheritance/he doi tuong hinh hoc/square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Inheritance/point và movePoint/movePoint.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Inheritance/point và movePoint/point.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Inheritance/point2D and point3D/point2D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Inheritance/point2D and point3D/point3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Inheritance/triangle/triangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/class and object/fan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/Cấu trúc dữ liệu và giải thuật cơ bản/classListSample/ArrayListTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/Cấu trúc dữ liệu và giải thuật cơ bản/classListSample/ArraytList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/demkytutrong chuoi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/gopMang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/nav.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/taoLayout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/locDSCustumers/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/locDSCustumers/img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/locDSCustumers/img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/locDSCustumers/img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/locDSCustumers/img5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/locDSCustumers/locDS.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/locDSCustumers/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/maxInArray.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/min.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/minimum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/register/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/register/register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/thongbaokhonghople.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/tongMotCot.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/tongduongcheo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/xoaphantutrongmang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/calculator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/calculator_.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/chuyendoitiente.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/futureValueCalculator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/img5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/listCustumers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/productDiscount.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/product_Discount.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/readNum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/soNguyenTo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/soNguyenToDau.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/tuDien.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/Comparable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/ComparableCircle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/ComparableCircleMain.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/circle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/Resizeable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/circle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/colorable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/cylinder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/rectangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/shape.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/square.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/Animal and interface Edible.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/animal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/apple.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/chicken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/edible.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/fruit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/orange.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/tiger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/demo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Inheritance/circle and cylinder/circle.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Inheritance/circle and cylinder/circle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Inheritance/circle and cylinder/cylinder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Inheritance/he doi tuong hinh hoc/circle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Inheritance/he doi tuong hinh hoc/cylinder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Inheritance/he doi tuong hinh hoc/rectangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Inheritance/he doi tuong hinh hoc/shape.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Inheritance/he doi tuong hinh hoc/square.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Inheritance/point và movePoint/movePoint.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Inheritance/point và movePoint/point.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Inheritance/point2D and point3D/point2D.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Inheritance/point2D and point3D/point3D.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Inheritance/triangle/shape.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Inheritance/triangle/triangle.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/Inheritance/triangle/triangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/class and object/fan.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/class and object/phuongtrinhbachai/giaiPt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/class and object/rectangle/buildRectangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/class and object/rectangle/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2_m2/class and object/stopWatch/stopWatch.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,91 +134,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/Comparable.php">
+        <entry file="file://$PROJECT_DIR$/week3/Cấu trúc dữ liệu và giải thuật cơ bản/classListSample/ArraytList.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/ComparableCircleMain.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/shape.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/Resizeable.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/circle.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/cylinder.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/rectangle.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/square.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+            <state relative-caret-position="264">
+              <caret line="55" column="39" lean-forward="true" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/index.php">
+        <entry file="file://$PROJECT_DIR$/week3/Cấu trúc dữ liệu và giải thuật cơ bản/classListSample/ArrayListTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/colorable.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -138,14 +154,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/week2_m2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/demkytutrong chuoi.php" />
-        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/tongMotCot.php" />
-        <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/tongduongcheo.php" />
         <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/thongbaokhonghople.php" />
         <option value="$PROJECT_DIR$/week1_m2/hàm và mảng php/maxInArray.php" />
         <option value="$PROJECT_DIR$/week2_m2/classAndObject/thuchanh.php" />
@@ -185,15 +198,18 @@
         <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/Comparable.php" />
         <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/ComparableCircle.php" />
         <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/ComparableCircleMain.php" />
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/shape.php" />
         <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/Resizeable.php" />
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/cylinder.php" />
         <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/retangle.php" />
         <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/colorable.php" />
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/index.php" />
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/circle.php" />
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/rectangle.php" />
         <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/square.php" />
+        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/index.php" />
+        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/shape.php" />
+        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/circle.php" />
+        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/cylinder.php" />
+        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/rectangle.php" />
+        <option value="$PROJECT_DIR$/week3/Cấu trúc dữ liệu và giải thuật cơ bản/classListSample.php" />
+        <option value="$PROJECT_DIR$/week3/Cấu trúc dữ liệu và giải thuật cơ bản/classListSample/ArratList.php" />
+        <option value="$PROJECT_DIR$/week3/Cấu trúc dữ liệu và giải thuật cơ bản/classListSample/ArrayListTest.php" />
       </list>
     </option>
   </component>
@@ -222,20 +238,20 @@
             <path>
               <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
               <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
-              <item name="week2_m2" type="462c0819:PsiDirectoryNode" />
+              <item name="week3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
               <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
-              <item name="week2_m2" type="462c0819:PsiDirectoryNode" />
-              <item name="Advanced Object Oriented Design" type="462c0819:PsiDirectoryNode" />
+              <item name="week3" type="462c0819:PsiDirectoryNode" />
+              <item name="Cấu trúc dữ liệu và giải thuật cơ bản" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
               <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
-              <item name="week2_m2" type="462c0819:PsiDirectoryNode" />
-              <item name="Advanced Object Oriented Design" type="462c0819:PsiDirectoryNode" />
-              <item name="Resizeable" type="462c0819:PsiDirectoryNode" />
+              <item name="week3" type="462c0819:PsiDirectoryNode" />
+              <item name="Cấu trúc dữ liệu và giải thuật cơ bản" type="462c0819:PsiDirectoryNode" />
+              <item name="classListSample" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -290,16 +306,18 @@
       <workItem from="1554948135533" duration="2791000" />
       <workItem from="1554962194394" duration="2000" />
       <workItem from="1555031737297" duration="6089000" />
+      <workItem from="1555380459106" duration="599000" />
+      <workItem from="1555464394315" duration="2311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45817000" />
+    <option name="totallyTimeSpent" value="48727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27651006" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28456375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -320,32 +338,33 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28456375" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/demkytutrong chuoi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/tongMotCot.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/xoaphantutrongmang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="22" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week2_m2/classAndObject/thuchanh.php" />
     <entry file="file://$PROJECT_DIR$/week2_m2/index.php" />
     <entry file="file://$PROJECT_DIR$/week2_m2/buildRectangle.php" />
@@ -472,9 +491,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/Animal and interface Edible.php/Animal and interface Edible.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/Animal and interface Edible.php/Animal and interface Edible.php" />
     <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/class Animal và interface Edible/animal.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -552,45 +569,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/Comparable.php">
+    <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/square.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        <state relative-caret-position="238">
+          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/ComparableCircleMain.php">
+    <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        <state relative-caret-position="357">
+          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/colorable.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/circle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/cylinder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        <state relative-caret-position="85">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/rectangle.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        <state relative-caret-position="204">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/cylinder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/circle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -603,22 +620,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/shape.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/square.php">
+    <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/ComparableCircleMain.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        <state relative-caret-position="170">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/index.php">
+    <entry file="file://$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/Comparable.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/Cấu trúc dữ liệu và giải thuật cơ bản/classListSample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/Cấu trúc dữ liệu và giải thuật cơ bản/classListSample/ArraytList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="55" column="39" lean-forward="true" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/Cấu trúc dữ liệu và giải thuật cơ bản/classListSample/ArrayListTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

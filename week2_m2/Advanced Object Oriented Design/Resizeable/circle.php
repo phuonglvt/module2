@@ -2,6 +2,7 @@
 include_once ('shape.php');
 include_once ('Resizeable.php');
 include_once ('colorable.php');
+
 class Circle extends Shape implements Resizeable
 {
     private $radius;
@@ -23,4 +24,4 @@ class Circle extends Shape implements Resizeable
         return (pi() * pow($this->radius, 2)) * $percent;
     }
 }
-?>
+?>1
