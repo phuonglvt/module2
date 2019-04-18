@@ -5,5 +5,8 @@
     <mapping directory="$PROJECT_DIR$/tuan1_module2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/week2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/week2_m2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week3_m2/CleanCode &amp; Refactoring/php-cleancode-refactoring-renaming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week3_m2/CleanCode &amp; Refactoring/php-cleancode-refactoring-variable-extraction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week3_m2/php-cleancode-refactoring-renaming" vcs="Git" />
   </component>
 </project>

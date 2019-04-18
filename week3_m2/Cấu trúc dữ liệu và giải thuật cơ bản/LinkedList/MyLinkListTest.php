@@ -11,7 +11,6 @@ class MyLinkListTest
     private $count;
 
 
-
     function __construct()
     {
         $this->firstMyLinkList = NULL;
@@ -31,7 +30,7 @@ class MyLinkListTest
         $this->firstMyLinkList = &$link;
 
 
-        if($this->lastMyLinkList == NULL)
+        if ($this->lastMyLinkList == NULL)
             $this->lastMyLinkList = $link;
 
         $this->count++;
@@ -39,16 +38,13 @@ class MyLinkListTest
 
     public function insertLast($data)
     {
-        if($this->firstMyLinkList != NULL)
-        {
+        if ($this->firstMyLinkList != NULL) {
             $link = new MyLinkList($data);
             $this->lastMyLinkList->next = $link;
             $link->next = NULL;
             $this->lastMyLinkList = &$link;
             $this->count++;
-        }
-        else
-        {
+        } else {
             $this->insertFirst($data);
         }
     }
@@ -58,29 +54,22 @@ class MyLinkListTest
         $current = $this->firstMyLinkList;
         $previous = $this->firstMyLinkList;
 
-        while($current->data != $key)
-        {
-            if($current->next == NULL)
+        while ($current->data != $key) {
+            if ($current->next == NULL)
                 return NULL;
-            else
-            {
+            else {
                 $previous = $current;
                 $current = $current->next;
             }
         }
 
-        if($current == $this->firstMyLinkList)
-        {
-            if($this->count == 1)
-            {
+        if ($current == $this->firstMyLinkList) {
+            if ($this->count == 1) {
                 $this->lastMyLinkList = $this->firstMyLinkList;
             }
             $this->firstMyLinkList = $this->firstMyLinkList->next;
-        }
-        else
-        {
-            if($this->lastMyLinkList == $current)
-            {
+        } else {
+            if ($this->lastMyLinkList == $current) {
                 $this->lastMyLinkList = $previous;
             }
             $previous->next = $current->next;
@@ -91,9 +80,8 @@ class MyLinkListTest
     public function find($key)
     {
         $current = $this->firstMyLinkList;
-        while($current->data != $key)
-        {
-            if($current->next == NULL)
+        while ($current->data != $key) {
+            if ($current->next == NULL)
                 return null;
             else
                 $current = $current->next;
@@ -103,13 +91,11 @@ class MyLinkListTest
 
     public function readMyLinkList($myLinkListPos)
     {
-        if($myLinkListPos <= $this->count)
-        {
+        if ($myLinkListPos <= $this->count) {
             $current = $this->firstMyLinkList;
             $pos = 1;
-            while($pos != $myLinkListPos)
-            {
-                if($current->next == NULL)
+            while ($pos != $myLinkListPos) {
+                if ($current->next == NULL)
                     return null;
                 else
                     $current = $current->next;
@@ -117,14 +103,16 @@ class MyLinkListTest
                 $pos++;
             }
             return $current->data;
-        }
-        else
+        } else
             return NULL;
     }
 
     public function totalMyLinkList()
     {
-        return $this->count;
+        if ($this->count >= 3) {
+            return $this->count;
+        }
+        echo "Bạn nhập ít nhất 3 số!";
     }
 
     public function readList()
