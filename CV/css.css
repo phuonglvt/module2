@@ -1,0 +1,28 @@
+.main{
+    width: 60%;
+    margin: auto;
+    padding: 5px;
+}
+/* định dạng cho thẻ bao bọc các thẻ skill */
+.container {
+    width: 15%;
+    background-color: #ddd;
+}
+/* định dạng chung cho thẻ hiển thị skill */
+.skills {
+    text-align: right;
+    padding-right: 10px;
+    line-height: 30px;
+    color: white;
+}
+.skills{
+    text-align: center;
+    padding-right: 20px;
+    line-height: 10px;
+    color: black;
+}
+/* định dạng cho từng skill theo số liệu */
+.html {width: 70%; background-color: #4CAF50;}
+.css {width: 40%; background-color: #2196F3;}
+.js {width: 80%; background-color: #f44336;}
+.php {width: 40%; background-color: #808080;}
