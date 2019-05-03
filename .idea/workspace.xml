@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8da5f5cc-3b21-40f7-ad58-32bcc438fd50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ProductManager_web/interface/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ProductManager_web/interface/normalize.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ProductManager_web/interface/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quanlythuvien/book.add.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quanlythuvien/libs/library.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/Comparable.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/ComparableCircle.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/ComparableCircleMain.php" afterDir="false" />
@@ -43,12 +38,11 @@
       <change afterPath="$PROJECT_DIR$/week2_m2/Inheritance/point2D and point3D/point3D.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week2_m2/Inheritance/triangle/triangle.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week2_m2/class and object/fan.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductManager_web" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManager_web" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductManager_web/productmanager.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManager_web/productmanager.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductManager_web/userdata.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManager_web/userdata.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/quanlythuvien/libs/library.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -71,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/quanlythuvien/book-add.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
-              <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+              <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -80,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/quanlythuvien/qltv.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+              <caret line="16" column="83" selection-start-line="16" selection-start-column="83" selection-end-line="16" selection-end-column="83" />
             </state>
           </provider>
         </entry>
@@ -98,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/quanlythuvien/book-delete.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -212,17 +206,6 @@
               <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
               <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
-              <item name="quanlythuvien" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
-              <item name="quanlythuvien" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -312,7 +295,8 @@
       <workItem from="1556766608727" duration="979000" />
       <workItem from="1556770386226" duration="1000" />
       <workItem from="1556772669337" duration="25000" />
-      <workItem from="1556845596566" duration="4093000" />
+      <workItem from="1556845596566" duration="4910000" />
+      <workItem from="1556851831174" duration="654000" />
     </task>
     <servers />
   </component>
@@ -325,7 +309,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97098000" />
+    <option name="totallyTimeSpent" value="98569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -523,17 +507,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quanlythuvien/book-delete.php">
+    <entry file="file://$PROJECT_DIR$/quanlythuvien/libs/library.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quanlythuvien/book-edit.php">
+    <entry file="file://$PROJECT_DIR$/quanlythuvien/book-add.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="493">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -544,24 +528,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quanlythuvien/libs/library.php">
+    <entry file="file://$PROJECT_DIR$/quanlythuvien/book-delete.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="187">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quanlythuvien/book-add.php">
+    <entry file="file://$PROJECT_DIR$/quanlythuvien/book-edit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        <state relative-caret-position="357">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quanlythuvien/qltv.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+          <caret line="16" column="83" selection-start-line="16" selection-start-column="83" selection-end-line="16" selection-end-column="83" />
         </state>
       </provider>
     </entry>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVC_Blog" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ProductManager_web" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ProductManager_web/animate.css" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tuan1_module2" vcs="Git" />
