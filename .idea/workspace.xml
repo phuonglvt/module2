@@ -40,9 +40,16 @@
       <change afterPath="$PROJECT_DIR$/week2_m2/class and object/fan.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog_MVC/bootstrap/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog_MVC/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog_MVC/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog_MVC/bootstrap/css/bootstrap.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductManager_web" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManager_web" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductManager_web/productmanager.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManager_web/productmanager.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductManager_web/userdata.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManager_web/userdata.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/greeting/resources/views/login_error.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/greeting/resources/views/login_error.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/greeting/resources/views/welcome_admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/greeting/resources/views/welcome_admin.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanlythuvien/book-add.php" beforeDir="false" afterPath="$PROJECT_DIR$/quanlythuvien/book-add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanlythuvien/book-edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/quanlythuvien/book-edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanlythuvien/book-list.php" beforeDir="false" afterPath="$PROJECT_DIR$/quanlythuvien/book-list.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,10 +60,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quanlythuvien/libs/library.php">
+        <entry file="file://$PROJECT_DIR$/lavarel/greeting/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="386">
+              <caret line="42" column="22" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lavarel/greeting/resources/views/welcome_admin.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lavarel/greeting/resources/views/login_error.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lavarel/greeting/resources/views/welcome.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lavarel/greeting/resources/views/login.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -64,26 +107,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quanlythuvien/book-add.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/quanlythuvien/qltv.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="83" selection-start-line="16" selection-start-column="83" selection-end-line="16" selection-end-column="83" />
+            <state relative-caret-position="505">
+              <caret line="92" column="12" lean-forward="true" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quanlythuvien/book-list.php">
+        <entry file="file://$PROJECT_DIR$/quanlythuvien/book-edit.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="952">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
             </state>
           </provider>
         </entry>
@@ -97,11 +131,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quanlythuvien/book-edit.php">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/quanlythuvien/book-list.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="476">
+              <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quanlythuvien/qltv.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -123,25 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/Comparable.php" />
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/ComparableCircle.php" />
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/ComparableCircleMain.php" />
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/Resizeable.php" />
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/retangle.php" />
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/colorable.php" />
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/square.php" />
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/index.php" />
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/shape.php" />
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/circle.php" />
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/cylinder.php" />
-        <option value="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Resizeable/rectangle.php" />
-        <option value="$PROJECT_DIR$/week3/Cấu trúc dữ liệu và giải thuật cơ bản/classListSample.php" />
-        <option value="$PROJECT_DIR$/week3/Cấu trúc dữ liệu và giải thuật cơ bản/classListSample/ArratList.php" />
-        <option value="$PROJECT_DIR$/week3/Cấu trúc dữ liệu và giải thuật cơ bản/classListSample/ArrayListTest.php" />
-        <option value="$PROJECT_DIR$/week3_m2/Cấu trúc dữ liệu và giải thuật cơ bản/ClassLinkedlistSample/Node.php" />
-        <option value="$PROJECT_DIR$/week3_m2/Cấu trúc dữ liệu và giải thuật cơ bản/classListSample/ArraytList.php" />
-        <option value="$PROJECT_DIR$/week3_m2/Cấu trúc dữ liệu và giải thuật cơ bản/ClassLinkedlistSample/LinkList.php" />
-        <option value="$PROJECT_DIR$/week3_m2/Cấu trúc dữ liệu và giải thuật cơ bản/ClassLinkedlistSample/LinkListMain.php" />
         <option value="$PROJECT_DIR$/week3_m2/Cấu trúc dữ liệu và giải thuật cơ bản/classListSample/ArrayListTest.php" />
         <option value="$PROJECT_DIR$/week3_m2/Cấu trúc dữ liệu và giải thuật cơ bản/ArrayList/MyList.php" />
         <option value="$PROJECT_DIR$/week3_m2/Cấu trúc dữ liệu và giải thuật cơ bản/ArrayList/MyListTest.php" />
@@ -170,10 +194,29 @@
         <option value="$PROJECT_DIR$/quanlythuvien/library.php" />
         <option value="$PROJECT_DIR$/quanlythuvien/book.add.php" />
         <option value="$PROJECT_DIR$/quanlythuvien/book-delete.php" />
-        <option value="$PROJECT_DIR$/quanlythuvien/book-edit.php" />
-        <option value="$PROJECT_DIR$/quanlythuvien/book-list.php" />
         <option value="$PROJECT_DIR$/quanlythuvien/libs/library.php" />
         <option value="$PROJECT_DIR$/quanlythuvien/qltv.sql" />
+        <option value="$PROJECT_DIR$/MVC_Blog/BlogMVC/bootstrap/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/MVC_Blog/BlogMVC/bootstrap/css/bootstrap-theme.css" />
+        <option value="$PROJECT_DIR$/MVC_Blog/BlogMVC/bootstrap/js/bootstrap.js" />
+        <option value="$PROJECT_DIR$/MVC_Blog/BlogMVC/bootstrap/js/npm.js" />
+        <option value="$PROJECT_DIR$/MVC_Blog/BlogMVC/blog.sql" />
+        <option value="$PROJECT_DIR$/Blog_MVC/bootstrap/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/Blog_MVC/bootstrap/css/bootstrap-theme.css" />
+        <option value="$PROJECT_DIR$/MVC/quiz/technopoints.sql" />
+        <option value="$PROJECT_DIR$/php-quiz/simple_php_quizzer_dbquizzer.sql" />
+        <option value="$PROJECT_DIR$/php-quiz/LICENSE" />
+        <option value="$PROJECT_DIR$/php-quiz/database.php" />
+        <option value="$PROJECT_DIR$/php-quiz/add.php" />
+        <option value="$PROJECT_DIR$/php-quiz/quizzer.php" />
+        <option value="$PROJECT_DIR$/php-quiz/index.php" />
+        <option value="$PROJECT_DIR$/lavarel/greeting/routes/login.php" />
+        <option value="$PROJECT_DIR$/lavarel/greeting/resources/views/welcome_admin.blade.php" />
+        <option value="$PROJECT_DIR$/lavarel/greeting/resources/views/login_error.blade.php" />
+        <option value="$PROJECT_DIR$/lavarel/greeting/routes/web.php" />
+        <option value="$PROJECT_DIR$/quanlythuvien/book-add.php" />
+        <option value="$PROJECT_DIR$/quanlythuvien/book-edit.php" />
+        <option value="$PROJECT_DIR$/quanlythuvien/book-list.php" />
       </list>
     </option>
   </component>
@@ -185,9 +228,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="965" />
+    <option name="x" value="622" />
+    <option name="y" value="312" />
+    <option name="width" value="1158" />
     <option name="height" value="700" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -205,6 +248,11 @@
             <path>
               <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
               <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
+              <item name="quanlythuvien" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,10 +273,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\phuonglvt\lavarel\greeting\resources\views" />
+      <recent name="C:\xampp\htdocs\phuonglvt\lavarel\greeting" />
       <recent name="C:\xampp\htdocs\phuonglvt\quanlythuvien\libs" />
       <recent name="C:\xampp\htdocs\phuonglvt\ProductManager_web\ProductManager\animotion" />
       <recent name="C:\xampp\htdocs\phuonglvt\week2_m2\Advanced Object Oriented Design" />
-      <recent name="C:\xampp\htdocs\phuonglvt\week2_m2\Advanced Object Oriented Design\class Animal và interface Edible\Animal and interface Edible.php" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -242,22 +291,6 @@
         </RuleState>
       </list>
     </option>
-  </component>
-  <component name="RunManager" selected="PHPUnit.CalculatorTest">
-    <configuration name="CalculatorTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="CalculatorTest" file="$PROJECT_DIR$/week3_m2/php-cleancode-refactoring-renaming/tests/CalculatorTest.php" scope="Class" />
-      <method v="2" />
-    </configuration>
-    <configuration name="CalculatorTest.testCalculateAdd" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="CalculatorTest" file="$PROJECT_DIR$/week3_m2/php-cleancode-refactoring-renaming/tests/CalculatorTest.php" method="testCalculateAdd" scope="Method" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="PHPUnit.CalculatorTest" />
-        <item itemvalue="PHPUnit.CalculatorTest.testCalculateAdd" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -296,7 +329,12 @@
       <workItem from="1556770386226" duration="1000" />
       <workItem from="1556772669337" duration="25000" />
       <workItem from="1556845596566" duration="4910000" />
-      <workItem from="1556851831174" duration="654000" />
+      <workItem from="1556851831174" duration="1717000" />
+      <workItem from="1557109646275" duration="468000" />
+      <workItem from="1557160633041" duration="612000" />
+      <workItem from="1557191351068" duration="8306000" />
+      <workItem from="1557280639016" duration="1352000" />
+      <workItem from="1557365353849" duration="5121000" />
     </task>
     <servers />
   </component>
@@ -309,13 +347,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98883000" />
+    <option name="totallyTimeSpent" value="116235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13489933" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2543624" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -372,159 +410,210 @@
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week3_m2/CleanCode &amp; Refactoring/php-cleancode-refactoring-renaming/CalculatorTest.php" />
-    <entry file="file://$PROJECT_DIR$/week3_m2/CleanCode &amp; Refactoring/php-cleancode-refactoring-renaming/Calculator.php" />
-    <entry file="file://$PROJECT_DIR$/week3_m2/CleanCode &amp; Refactoring/php-cleancode-refactoring-variable-extraction/FizzBuzz.php" />
-    <entry file="file://$PROJECT_DIR$/week3_m2/CleanCode &amp; Refactoring/php-cleancode-refactoring-exercise/TennisGame.php" />
-    <entry file="file://$PROJECT_DIR$/week3_m2/CleanCode &amp; Refactoring/php-cleancode-refactoring-exercise/TennisGameMain.php" />
-    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/taoLayout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/content.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#10#16#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/header.php">
+    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/bootstrap/js/npm.js" />
+    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/controller/PostController.php" />
+    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/model/DBConnection.php" />
+    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/model/Post.php" />
+    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/model/PostDB.php" />
+    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/view/add.php" />
+    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/view/delete.php" />
+    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/view/edit.php" />
+    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/view/list.php" />
+    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/view/view.php" />
+    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/blog.sql" />
+    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/index.php" />
+    <entry file="file://$PROJECT_DIR$/Blog_MVC/model/PostDB.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/index.php">
+    <entry file="file://$PROJECT_DIR$/Blog_MVC/model/Post.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/week1_m2/hàm và mảng php/layout/nav.php">
+    <entry file="file://$PROJECT_DIR$/Blog_MVC/model/DBConnection.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        <state relative-caret-position="340">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CV/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV/css.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/ProductManager/view/demo.php" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/ProductManager/ProductManager/controller/ProductController.php" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/ProductManager/view/add.php" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/ProductManager/index.php" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/ProductManager/model/DBConnection.php" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/ProductManager/controller/ProductController.php" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/ProductManager/animotion/css.php" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/animate.css/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/animate.css/.prettierignore" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/animate.css/.travis.yml" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/animate.css/npm-shrinkwrap.json" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/animate.css/README.md" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/animate.css/.editorconfig" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/animate.css/LICENSE" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/animate.css/CODE_OF_CONDUCT.md" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/animate.css/animate.css" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/animate.css/animate-config.json" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/animate.css/bower.json" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/animate.css/gulpfile.js" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/animate.css/package.json" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/animate.css/animate.min.css" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/ProductManager/animotion/animotion.php" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/ProductManager/animotion/css.css" />
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/ProductManager/animotion/js.js" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6768.1141/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6604">
-          <caret selection-end-line="499" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/interface/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/userdata.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/productmanager.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/interface/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="78" column="29" selection-start-line="78" selection-start-column="29" selection-end-line="78" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/interface/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProductManager_web/index.php">
+    <entry file="file://$PROJECT_DIR$/Blog_MVC/controller/PostController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quanlythuvien/libs/library.php">
+    <entry file="file://$PROJECT_DIR$/Blog_MVC/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog_MVC/bootstrap/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog_MVC/bootstrap/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog_MVC/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="476">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVC/quiz/bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVC/quiz/dbconfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="63" selection-start-column="51" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVC/quiz/bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVC/quiz/ReadMe.txt" />
+    <entry file="file://$PROJECT_DIR$/MVC/quiz/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243">
+          <caret line="107" column="47" selection-start-line="107" selection-start-column="47" selection-end-line="107" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-quiz/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-quiz/simple_php_quizzer_dbquizzer.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-quiz/process.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-quiz/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/greeting/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-quiz/question.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVC/quiz/technopoints.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-quiz/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-quiz/quizzer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="185" column="2" selection-start-line="185" selection-start-column="2" selection-end-line="185" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-quiz/final.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-quiz/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/greeting/bootstrap/app.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/greeting/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/greeting/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="56" column="27" lean-forward="true" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/greeting/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/greeting/database/factories/UserFactory.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/greeting/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="42" column="22" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/greeting/resources/views/login_error.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/greeting/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/greeting/resources/views/welcome_admin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/greeting/resources/views/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanlythuvien/qltv.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quanlythuvien/book-add.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        <state relative-caret-position="505">
+          <caret line="92" column="12" lean-forward="true" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quanlythuvien/book-list.php">
+    <entry file="file://$PROJECT_DIR$/quanlythuvien/book-edit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="952">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
@@ -535,17 +624,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quanlythuvien/book-edit.php">
+    <entry file="file://$PROJECT_DIR$/quanlythuvien/book-list.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quanlythuvien/qltv.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="83" selection-start-line="16" selection-start-column="83" selection-end-line="16" selection-end-column="83" />
+        <state relative-caret-position="476">
+          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
         </state>
       </provider>
     </entry>

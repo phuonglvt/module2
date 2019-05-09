@@ -1,7 +1,10 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Admin
- * Date: 5/9/2019
- * Time: 10:14 AM
- */
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Đăng nhập lỗi</title>
+</head>
+<body>
+<p>Sai tên đăng nhập hoặc mật khẩu.</p>
+</body>
+</html>

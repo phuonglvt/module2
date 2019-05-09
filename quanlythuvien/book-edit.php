@@ -52,7 +52,9 @@ disconnect_db();
 </head>
 <body>
 <h1>Thêm sinh vien </h1>
+
 <a href="book-list.php">Trở về</a> <br/> <br/>
+
 <form method="post" action="book-edit.php?id=<?php echo $data['sach_id']; ?>">
     <table width="50%" border="1" cellspacing="0" cellpadding="10">
         <tr>
@@ -62,26 +64,37 @@ disconnect_db();
                 <?php if (!empty($errors['sach_name'])) echo $errors['sach_name']; ?>
             </td>
         </tr>
+
         <tr>
             <td>Author</td>
             <td>
                 <select name="author">
-                    <input type="text" name="author" value="<?php echo !empty($data['sach_author']) ? $data['sach_author'] : ''; ?>"/>
-
+                    <input type="text" name="author" value="<?php
+                    echo !empty($data['sach_author']) ? $data['sach_author'] : ''; ?>"
+                    />
                 </select>
-                <?php if (!empty($errors['sach_author'])) echo $errors['sach_author']; ?>
+
+                <?php if (!empty($errors['sach_author']))
+                    echo $errors['sach_author']; ?>
             </td>
         </tr>
         <tr>
             <td>DayBorrow</td>
             <td>
-                <input type="text" name="dayBorrow" value="<?php echo !empty($data['sach_dayBorrow']) ? $data['sach_dayBorrow'] : ''; ?>"/>
+                <input type="text" name="dayBorrow" value="
+                <?php
+                echo !empty($data['sach_dayBorrow']) ? $data['sach_dayBorrow'] : ''; ?>"
+                />
             </td>
         </tr>
         <tr>
             <td></td>
             <td>
-                <input type="hidden" name="id" value="<?php echo $data['sach_id']; ?>"/>
+                <input type="hidden" name="id" value="
+                <?php
+                echo $data['sach_id']; ?>"
+                />
+
                 <input type="submit" name="edit_sach" value="Lưu"/>
             </td>
         </tr>

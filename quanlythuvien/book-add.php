@@ -40,32 +40,50 @@ disconnect_db();
 </head>
 <body>
 <h1>Thêm sách </h1>
+
 <a href="book-list.php">Trở về</a> <br/> <br/>
+
 <form method="post" action="book-add.php">
     <table width="50%" border="1" cellspacing="0" cellpadding="10">
         <tr>
             <td>Name</td>
             <td>
-                <input type="text" name="name" value="<?php echo !empty($data['sach_name']) ? $data['sach_name'] : ''; ?>"/>
-                <?php if (!empty($errors['sach_name'])) echo $errors['sach_name']; ?>
+                <input type="text" name="name" value="
+                <?php
+                echo !empty($data['sach_name']) ? $data['sach_name'] : ''; ?>"
+                />
+
+                <?php
+                if (!empty($errors['sach_name']))
+                    echo $errors['sach_name']; ?>
             </td>
         </tr>
+
         <tr>
             <td>Author</td>
             <td>
                 <select name="author">
-                    <input type="text" name="author" value="<?php echo !empty($data['sach_author']) ? $data['sach_author'] : ''; ?>"/>
-
+                    <input type="text" name="author" value="
+                    <?php
+                    echo !empty($data['sach_author']) ? $data['sach_author'] : ''; ?>"
+                    />
                 </select>
-                <?php if (!empty($errors['sach_author'])) echo $errors['sach_author']; ?>
+
+                <?php if (!empty($errors['sach_author']))
+                    echo $errors['sach_author']; ?>
             </td>
         </tr>
+
         <tr>
             <td>DayBorrow</td>
             <td>
-                <input type="text" name="dayBorrow" value="<?php echo !empty($data['sach_dayBorrow']) ? $data['sach_dayBorrow'] : ''; ?>"/>
+                <input type="text" name="dayBorrow" value="
+                <?php
+                echo !empty($data['sach_dayBorrow']) ? $data['sach_dayBorrow'] : ''; ?>"
+                />
             </td>
         </tr>
+
         <tr>
             <td></td>
             <td>
