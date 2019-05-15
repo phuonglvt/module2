@@ -30,7 +30,7 @@ Route::post('/', function (Request $request) {
             return view('result',compact('word', 'description'));
          }
       } 
-      if($flag == 0){
+      if($flag = true){
             return('Không tìm thấy từ cần tra');
       }
     });
