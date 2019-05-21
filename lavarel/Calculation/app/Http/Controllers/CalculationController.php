@@ -30,7 +30,7 @@ class CalculationController extends Controller
                 if ($soB != 0) {
                     $result = $soA / $soB;
                 } else {
-                    echo("Can not divide by 0");
+                    return "Can not divide by 0";
                     break;
                 }
             default:
