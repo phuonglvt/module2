@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8da5f5cc-3b21-40f7-ad58-32bcc438fd50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ProductManager_web/interface/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager_web/interface/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager_web/interface/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lavarel/layout/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lavarel/layout/resources/views/includes/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lavarel/layout/resources/views/includes/head.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lavarel/layout/resources/views/includes/header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lavarel/layout/resources/views/layouts/default.balde.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lavarel/layout/resources/views/pages/about.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lavarel/task_manager/resources/views/index.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/Comparable.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/ComparableCircle.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week2_m2/Advanced Object Oriented Design/Comparator/ComparableCircleMain.php" afterDir="false" />
@@ -40,16 +44,137 @@
       <change afterPath="$PROJECT_DIR$/week2_m2/class and object/fan.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog_MVC/bootstrap/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog_MVC/bootstrap/css/bootstrap-theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog_MVC/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog_MVC/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductManager_web" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManager_web" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductManager_web/productmanager.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManager_web/productmanager.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductManager_web/userdata.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManager_web/userdata.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lavarel/greeting/resources/views/login_error.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/greeting/resources/views/login_error.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lavarel/greeting/resources/views/welcome_admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/greeting/resources/views/welcome_admin.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quanlythuvien/book-add.php" beforeDir="false" afterPath="$PROJECT_DIR$/quanlythuvien/book-add.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quanlythuvien/book-edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/quanlythuvien/book-edit.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quanlythuvien/book-list.php" beforeDir="false" afterPath="$PROJECT_DIR$/quanlythuvien/book-list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductManager_web" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Calculation/app/Http/Controllers/CalculationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/Calculation/app/Http/Controllers/CalculationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/Catalog_MVC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/css/style1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/Catalog_MVC/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/interface/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/interface/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/interface/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/model/ProductDB.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/Catalog_MVC/model/ProductDB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/productmanager.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/userdata.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/detail.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/detail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/login/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/login/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/login/dangky.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/login/dangnhap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/login/dangnhapthanhcong.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/login/ketnoi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/login/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/login/trangchu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/login/xuly.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/Catalog_MVC/view/search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Console/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Exceptions/Handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/CustomerController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Middleware/Authenticate.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Middleware/EncryptCookies.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Middleware/TrimStrings.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Middleware/TrustProxies.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Providers/BroadcastServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Providers/EventServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/artisan" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/artisan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/bootstrap/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/bootstrap/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/bootstrap/cache/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/bootstrap/cache/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/config/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/config/broadcasting.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/config/broadcasting.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/config/cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/config/cache.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/config/filesystems.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/config/hashing.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/config/hashing.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/config/logging.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/config/logging.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/config/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/config/mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/config/queue.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/config/queue.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/config/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/config/session.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/config/session.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/config/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/config/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/database/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/database/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/database/factories/UserFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/phpunit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/public/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/public/web.config" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/public/web.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/resources/js/components/ExampleComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/resources/js/components/ExampleComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/resources/lang/en/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/resources/lang/en/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/resources/lang/en/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/resources/lang/en/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/resources/lang/en/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/resources/lang/en/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/resources/lang/en/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/resources/lang/en/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/resources/sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/resources/sass/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/resources/views/modules/customer/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/routes/channels.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/routes/channels.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/routes/console.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/routes/console.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/server.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/storage/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/storage/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/storage/app/public/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/storage/app/public/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/storage/framework/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/storage/framework/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/storage/framework/cache/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/storage/framework/cache/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/storage/framework/sessions/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/storage/framework/testing/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/storage/framework/testing/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/storage/framework/views/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/storage/framework/views/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/storage/logs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/storage/logs/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/tests/CreatesApplication.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/tests/CreatesApplication.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/tests/Feature/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/tests/TestCase.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/tests/TestCase.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/tests/Unit/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lavarel/task_manager/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/lavarel/task_manager/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math-quiz/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math-quiz/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math-quiz/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math-quiz/.idea/php-quiz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math-quiz/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math-quiz/add.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math-quiz/controller/process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math-quiz/controller/process2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math-quiz/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math-quiz/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math-quiz/model/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math-quiz/simple_php_quizzer_dbquizzer.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math-quiz/view/final.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math-quiz/view/question.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math-quiz/view/question2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_m2/tổng quan về php/calculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/week1_m2/tổng quan về php/calculator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3_m2/CleanCode &amp; Refactoring/Bai1/Calculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/week3_m2/CleanCode &amp; Refactoring/Bai1/Calculator.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,93 +183,93 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lavarel/greeting/routes/web.php">
+        <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/model/DBConnection.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="42" column="22" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="22" />
+            <state relative-caret-position="408">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lavarel/greeting/resources/views/welcome_admin.blade.php">
+        <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/model/Product.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/model/ProductDB.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lavarel/greeting/resources/views/login_error.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lavarel/greeting/resources/views/welcome.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lavarel/greeting/resources/views/login.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quanlythuvien/book-add.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="92" column="12" lean-forward="true" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quanlythuvien/book-edit.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quanlythuvien/book-delete.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/quanlythuvien/book-list.php">
+        <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+            <state relative-caret-position="714">
+              <caret line="81" column="10" lean-forward="true" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quanlythuvien/qltv.sql">
+        <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/controller/ProductController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+            <state relative-caret-position="-345">
+              <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/view/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/view/add.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-22" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/view/delete.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/view/detail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2912">
+              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -161,62 +286,62 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lavarel/Catalog_MVC" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/week3_m2/Cấu trúc dữ liệu và giải thuật cơ bản/classListSample/ArrayListTest.php" />
-        <option value="$PROJECT_DIR$/week3_m2/Cấu trúc dữ liệu và giải thuật cơ bản/ArrayList/MyList.php" />
-        <option value="$PROJECT_DIR$/week3_m2/Cấu trúc dữ liệu và giải thuật cơ bản/ArrayList/MyListTest.php" />
-        <option value="$PROJECT_DIR$/week3_m2/Cấu trúc dữ liệu và giải thuật cơ bản/LinkedList/MyLinkList.php" />
-        <option value="$PROJECT_DIR$/week3_m2/php-cleancode-refactoring-renaming/src/Calculator.php" />
-        <option value="$PROJECT_DIR$/week3_m2/php-cleancode-refactoring-renaming/tests/CalculatorTest.php" />
-        <option value="$PROJECT_DIR$/week3_m2/Cấu trúc dữ liệu và giải thuật cơ bản/LinkedList/MyLinkListTest.php" />
-        <option value="$PROJECT_DIR$/week3_m2/Cấu trúc dữ liệu và giải thuật cơ bản/LinkedList/MyLinkListMain.php" />
-        <option value="$PROJECT_DIR$/week3_m2/CleanCode &amp; Refactoring/php-cleancode-refactoring-method-extraction/Cylinder.php" />
-        <option value="$PROJECT_DIR$/week3_m2/CleanCode &amp; Refactoring/php-cleancode-refactoring-renaming/Calculator.php" />
-        <option value="$PROJECT_DIR$/week3_m2/CleanCode &amp; Refactoring/php-cleancode-refactoring-renaming/CalculatorTest.php" />
-        <option value="$PROJECT_DIR$/week3_m2/CleanCode &amp; Refactoring/php-cleancode-refactoring-method-extraction/CylinderTest.php" />
-        <option value="$PROJECT_DIR$/week3_m2/CleanCode &amp; Refactoring/php-cleancode-refactoring-exercise/TennisGame.php" />
-        <option value="$PROJECT_DIR$/week3_m2/CleanCode &amp; Refactoring/php-cleancode-refactoring-exercise/TennisGameMain.php" />
-        <option value="$PROJECT_DIR$/CV/css.css" />
-        <option value="$PROJECT_DIR$/CV/index.html" />
-        <option value="$PROJECT_DIR$/ProductManager_web/ProductManager/animotion.php" />
-        <option value="$PROJECT_DIR$/ProductManager_web/ProductManager/animotion/css.css" />
-        <option value="$PROJECT_DIR$/ProductManager_web/ProductManager/animotion/js.js" />
-        <option value="$PROJECT_DIR$/ProductManager_web/index.php" />
-        <option value="$PROJECT_DIR$/ProductManager_web/interface/style.css" />
-        <option value="$PROJECT_DIR$/ProductManager_web/interface/index.html" />
-        <option value="$PROJECT_DIR$/ProductManager_web/productmanager.sql" />
-        <option value="$PROJECT_DIR$/ProductManager_web/userdata.sql" />
-        <option value="$PROJECT_DIR$/ProductManager_web/interface/normalize.css" />
-        <option value="$PROJECT_DIR$/quanlythuvien/library.php" />
-        <option value="$PROJECT_DIR$/quanlythuvien/book.add.php" />
-        <option value="$PROJECT_DIR$/quanlythuvien/book-delete.php" />
-        <option value="$PROJECT_DIR$/quanlythuvien/libs/library.php" />
-        <option value="$PROJECT_DIR$/quanlythuvien/qltv.sql" />
-        <option value="$PROJECT_DIR$/MVC_Blog/BlogMVC/bootstrap/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/MVC_Blog/BlogMVC/bootstrap/css/bootstrap-theme.css" />
-        <option value="$PROJECT_DIR$/MVC_Blog/BlogMVC/bootstrap/js/bootstrap.js" />
-        <option value="$PROJECT_DIR$/MVC_Blog/BlogMVC/bootstrap/js/npm.js" />
-        <option value="$PROJECT_DIR$/MVC_Blog/BlogMVC/blog.sql" />
-        <option value="$PROJECT_DIR$/Blog_MVC/bootstrap/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/Blog_MVC/bootstrap/css/bootstrap-theme.css" />
-        <option value="$PROJECT_DIR$/MVC/quiz/technopoints.sql" />
-        <option value="$PROJECT_DIR$/php-quiz/simple_php_quizzer_dbquizzer.sql" />
-        <option value="$PROJECT_DIR$/php-quiz/LICENSE" />
-        <option value="$PROJECT_DIR$/php-quiz/database.php" />
-        <option value="$PROJECT_DIR$/php-quiz/add.php" />
-        <option value="$PROJECT_DIR$/php-quiz/quizzer.php" />
-        <option value="$PROJECT_DIR$/php-quiz/index.php" />
-        <option value="$PROJECT_DIR$/lavarel/greeting/routes/login.php" />
-        <option value="$PROJECT_DIR$/lavarel/greeting/resources/views/welcome_admin.blade.php" />
         <option value="$PROJECT_DIR$/lavarel/greeting/resources/views/login_error.blade.php" />
         <option value="$PROJECT_DIR$/lavarel/greeting/routes/web.php" />
         <option value="$PROJECT_DIR$/quanlythuvien/book-add.php" />
         <option value="$PROJECT_DIR$/quanlythuvien/book-edit.php" />
         <option value="$PROJECT_DIR$/quanlythuvien/book-list.php" />
+        <option value="$PROJECT_DIR$/lavarel/route-demo/resources/views/user.php" />
+        <option value="$PROJECT_DIR$/lavarel/route-demo/app/Http/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/lavarel/route-demo/routes/web.php" />
+        <option value="$PROJECT_DIR$/lavarel/route-demo/resources/views/home.php" />
+        <option value="$PROJECT_DIR$/lavarel/route-demo/timezone/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/lavarel/route-demo/timezone/routes/web.php" />
+        <option value="$PROJECT_DIR$/lavarel/Catalog_MVC/controller/ProductController.php" />
+        <option value="$PROJECT_DIR$/lavarel/Catalog_MVC/productmanager.sql" />
+        <option value="$PROJECT_DIR$/lavarel/tudien/routes/web.php" />
+        <option value="$PROJECT_DIR$/lavarel/Catalog_MVC/css/css.css" />
+        <option value="$PROJECT_DIR$/lavarel/Catalog_MVC/view/detail.php" />
+        <option value="$PROJECT_DIR$/lavarel/Catalog_MVC/model/ProductDB.php" />
+        <option value="$PROJECT_DIR$/lavarel/Catalog_MVC/view/add.php" />
+        <option value="$PROJECT_DIR$/lavarel/Catalog_MVC/view/delete.php" />
+        <option value="$PROJECT_DIR$/lavarel/Catalog_MVC/view/edit.php" />
+        <option value="$PROJECT_DIR$/lavarel/Catalog_MVC/view/list.php" />
+        <option value="$PROJECT_DIR$/lavarel/Catalog_MVC/index.php" />
+        <option value="$PROJECT_DIR$/lavarel/Catalog_MVC/products.sql" />
+        <option value="$PROJECT_DIR$/lavarel/email-validation--prefer-dist/resources/views/IndexController.php" />
+        <option value="$PROJECT_DIR$/lavarel/email-validation--prefer-dist/routes/web.php" />
+        <option value="$PROJECT_DIR$/lavarel/email-validation--prefer-dist/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/lavarel/task_manager/resources/views/modules/index.blade.php" />
+        <option value="$PROJECT_DIR$/week3_m2/CleanCode &amp; Refactoring/Bai1/Calculator.php" />
+        <option value="$PROJECT_DIR$/lavarel/Calculation/resources/views/calculator.php" />
+        <option value="$PROJECT_DIR$/week1_m2/tổng quan về php/calculator.php" />
+        <option value="$PROJECT_DIR$/lavarel/Calculation/routes/web.php" />
+        <option value="$PROJECT_DIR$/lavarel/Calculation/resources/views/calculator.blade.php" />
+        <option value="$PROJECT_DIR$/lavarel/Calculation/app/Http/Controllers/CalculationController.php" />
+        <option value="$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/CustomerController.php" />
+        <option value="$PROJECT_DIR$/lavarel/task_manager/resources/views/customers/layout/master.blade.php" />
+        <option value="$PROJECT_DIR$/lavarel/task_manager/resources/views/customers/layout/list.blade.php" />
+        <option value="$PROJECT_DIR$/lavarel/layout/resources/views/master.balde.php" />
+        <option value="$PROJECT_DIR$/lavarel/layout/bootstrap/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/lavarel/layout/routes/web.php" />
+        <option value="$PROJECT_DIR$/lavarel/layout/resources/views/about.blade.php" />
+        <option value="$PROJECT_DIR$/lavarel/layout/resources/views/includes/head.blade.php" />
+        <option value="$PROJECT_DIR$/lavarel/layout/resources/views/includes/header.blade.php" />
+        <option value="$PROJECT_DIR$/lavarel/layout/resources/views/includes/footer.blade.php" />
+        <option value="$PROJECT_DIR$/lavarel/task_manager/resources/sass/app.scss" />
+        <option value="$PROJECT_DIR$/lavarel/task_manager/routes/web.php" />
+        <option value="$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/TaskController.php" />
+        <option value="$PROJECT_DIR$/lavarel/task_manager/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/lavarel/task_manager/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/lavarel/task_manager/.env" />
+        <option value="$PROJECT_DIR$/lavarel/task_manager/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/lavarel/Catalog_MVC/css/style.css" />
       </list>
     </option>
   </component>
@@ -228,10 +353,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="622" />
-    <option name="y" value="312" />
-    <option name="width" value="1158" />
-    <option name="height" value="700" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="895" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -241,7 +366,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,19 +376,61 @@
             <path>
               <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
               <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
-              <item name="quanlythuvien" type="462c0819:PsiDirectoryNode" />
+              <item name="lavarel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
+              <item name="lavarel" type="462c0819:PsiDirectoryNode" />
+              <item name="Catalog_MVC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
+              <item name="lavarel" type="462c0819:PsiDirectoryNode" />
+              <item name="Catalog_MVC" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
+              <item name="lavarel" type="462c0819:PsiDirectoryNode" />
+              <item name="Catalog_MVC" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
+              <item name="lavarel" type="462c0819:PsiDirectoryNode" />
+              <item name="Catalog_MVC" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
+              <item name="lavarel" type="462c0819:PsiDirectoryNode" />
+              <item name="Catalog_MVC" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phuonglvt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phuonglvt" type="462c0819:PsiDirectoryNode" />
+              <item name="lavarel" type="462c0819:PsiDirectoryNode" />
+              <item name="Catalog_MVC" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lavarel/Catalog_MVC" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -272,12 +438,15 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\phuonglvt\lavarel\layout\resources\views\layouts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\phuonglvt\lavarel\layout\resources\views\pages" />
+      <recent name="C:\xampp\htdocs\phuonglvt\lavarel\task_manager\resources\views\modules\customer" />
       <recent name="C:\xampp\htdocs\phuonglvt\lavarel\greeting\resources\views" />
       <recent name="C:\xampp\htdocs\phuonglvt\lavarel\greeting" />
       <recent name="C:\xampp\htdocs\phuonglvt\quanlythuvien\libs" />
-      <recent name="C:\xampp\htdocs\phuonglvt\ProductManager_web\ProductManager\animotion" />
-      <recent name="C:\xampp\htdocs\phuonglvt\week2_m2\Advanced Object Oriented Design" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -334,7 +503,14 @@
       <workItem from="1557160633041" duration="612000" />
       <workItem from="1557191351068" duration="8306000" />
       <workItem from="1557280639016" duration="1352000" />
-      <workItem from="1557365353849" duration="5121000" />
+      <workItem from="1557365353849" duration="5719000" />
+      <workItem from="1557452767896" duration="2886000" />
+      <workItem from="1557711269286" duration="3811000" />
+      <workItem from="1557796344689" duration="13510000" />
+      <workItem from="1558055883888" duration="2337000" />
+      <workItem from="1558316978650" duration="4884000" />
+      <workItem from="1558324406597" duration="750000" />
+      <workItem from="1558401155228" duration="3722000" />
     </task>
     <servers />
   </component>
@@ -347,13 +523,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116235000" />
+    <option name="totallyTimeSpent" value="148578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2543624" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29395974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -366,7 +541,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -400,6 +575,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/TaskController.php</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
       <path>
@@ -410,224 +596,270 @@
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/bootstrap/js/npm.js" />
-    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/controller/PostController.php" />
-    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/model/DBConnection.php" />
-    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/model/Post.php" />
-    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/model/PostDB.php" />
-    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/view/add.php" />
-    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/view/delete.php" />
-    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/view/edit.php" />
-    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/view/list.php" />
-    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/view/view.php" />
-    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/blog.sql" />
-    <entry file="file://$PROJECT_DIR$/MVC_Blog/BlogMVC/index.php" />
-    <entry file="file://$PROJECT_DIR$/Blog_MVC/model/PostDB.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Blog_MVC/model/Post.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Blog_MVC/model/DBConnection.php">
+    <entry file="file://$PROJECT_DIR$/week1_m2/tổng quan về php/calculator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="306">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blog_MVC/controller/PostController.php">
+    <entry file="file://$PROJECT_DIR$/lavarel/Calculation/app/Http/Controllers/CalculationController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+        <state relative-caret-position="277">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blog_MVC/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Blog_MVC/bootstrap/css/bootstrap-theme.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Blog_MVC/bootstrap/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Blog_MVC/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MVC/quiz/bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MVC/quiz/dbconfig.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="63" selection-start-column="51" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MVC/quiz/bg.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MVC/quiz/ReadMe.txt" />
-    <entry file="file://$PROJECT_DIR$/MVC/quiz/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret line="107" column="47" selection-start-line="107" selection-start-column="47" selection-end-line="107" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-quiz/LICENSE">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-quiz/simple_php_quizzer_dbquizzer.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-quiz/process.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-quiz/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lavarel/greeting/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-quiz/question.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MVC/quiz/technopoints.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-quiz/add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-quiz/quizzer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="185" column="2" selection-start-line="185" selection-start-column="2" selection-end-line="185" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-quiz/final.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-quiz/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lavarel/greeting/bootstrap/app.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lavarel/greeting/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lavarel/greeting/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="56" column="27" lean-forward="true" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lavarel/greeting/database/seeds/DatabaseSeeder.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lavarel/greeting/database/factories/UserFactory.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lavarel/greeting/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="42" column="22" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lavarel/greeting/resources/views/login_error.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lavarel/greeting/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lavarel/greeting/resources/views/welcome_admin.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lavarel/greeting/resources/views/login.blade.php">
+    <entry file="file://$PROJECT_DIR$/lavarel/Calculation/resources/views/calculator.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quanlythuvien/qltv.sql">
+    <entry file="file://$PROJECT_DIR$/lavarel/Calculation/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        <state relative-caret-position="85">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quanlythuvien/book-add.php">
+    <entry file="file://$PROJECT_DIR$/lavarel/layout/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/layout/bootstrap/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="92" column="12" lean-forward="true" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
+        <state relative-caret-position="-226" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/layout/artisan">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="75" lean-forward="true" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quanlythuvien/book-edit.php">
+    <entry file="file://$PROJECT_DIR$/lavarel/layout/.env">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/resources/views/customers/layout/list.blade.php" />
+    <entry file="file://$PROJECT_DIR$/lavarel/layout/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="136">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quanlythuvien/book-delete.php">
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/resources/views/customers/layout/master.blade.php" />
+    <entry file="file://$PROJECT_DIR$/lavarel/layout/resources/views/master.balde.php" />
+    <entry file="file://$PROJECT_DIR$/lavarel/layout/resources/views/about.blade.php" />
+    <entry file="file://$PROJECT_DIR$/lavarel/layout/resources/views/pages/about.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/layout/resources/views/layouts/default.balde.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        <state relative-caret-position="85">
+          <caret line="5" column="75" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="75" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quanlythuvien/book-list.php">
+    <entry file="file://$PROJECT_DIR$/lavarel/layout/resources/views/includes/head.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/layout/resources/views/includes/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/layout/resources/views/includes/footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/resources/views/modules/customer/index.blade.php" />
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/CustomerController.php" />
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="61" lean-forward="true" selection-start-line="44" selection-start-column="61" selection-end-line="44" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/resources/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/resources/sass/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/app/User.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/laravel-task-management/app/Category.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/laravel-task-management/database/seeds/TasksTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/app/Http/Controllers/TaskController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/laravel-task-management/database/migrations/2018_09_26_064847_create_tasks_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/laravel-task-management/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/database/migrations/2018_09_26_044001_create_categories_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/database/migrations/2018_09_26_064847_create_tasks_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/laravel-task-management/app/Http/Controllers/TaskController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1382" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/task_manager/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/img/41BjtnvIUQL._SX382_BO1,204,203,200_.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/img/IMG_20170803_0001.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-526" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2912">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/model/DBConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/model/Product.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/model/ProductDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/view/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/view/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/view/delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/view/detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/controller/ProductController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345">
+          <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lavarel/Catalog_MVC/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="81" column="10" lean-forward="true" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
         </state>
       </provider>
     </entry>

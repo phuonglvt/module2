@@ -7,10 +7,10 @@
     <input type='text' name='value1'></br>
 
     <select name='action'></br>
-        <option>Addition</option>
-        <option>Multiplication</option>
-        <option>Subtraction</option>
-        <option>Division</option>
+        <option>ADDITION</option>
+        <option>SUBTRACTION</option>
+        <option>MULTIPLICATION</option>
+        <option>DIVISION</option>
     </select></br>
 
     <input type='text' name='value2'></br>

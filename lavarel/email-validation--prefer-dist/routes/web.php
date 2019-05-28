@@ -16,3 +16,6 @@ Route::get('/', function () {
 });
 
 Route::get('/', 'IndexController@index');
+
+Route::get('create', 'PostController@create');
+Route::post('store', 'PostController@store')->name('store');
