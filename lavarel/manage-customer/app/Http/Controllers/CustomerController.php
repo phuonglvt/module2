@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\City;
 use App\Customer;
+use App\Http\Requests\StoreCustomerPost;
 use http\Env\Response;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Session;
@@ -34,8 +35,8 @@ class CustomerController extends Controller
 
     public function create()
     {
-        $cities = City::all();
-        return view('customers.create', compact('cities'));
+       $cities = City::all();
+      return view('customers.create', compact('cities'));
     }
 
     /**
@@ -44,8 +45,10 @@ class CustomerController extends Controller
      * @return Response
      */
 
-    public function store(Request $request)
+    public function store( Request $request)
     {
+        $this->validateCustomer();
+
         $customer = new Customer();
         $customer->name     = $request->input('name');
         $customer->email    = $request->input('email');
@@ -54,10 +57,11 @@ class CustomerController extends Controller
         $customer->save();
 
         //dung session de dua ra thong bao
-        Session::flash('success', 'Tạo mới khách hàng thành công');
+//        Session::flash('success', 'Tạo mới khách hàng thành công');
         //tao moi xong quay ve trang danh sach khach hang
         return redirect()->route('customers.index');
     }
+
 
     /**
      * Show the form for editing the specified resource.
@@ -150,6 +154,13 @@ class CustomerController extends Controller
         return view('customers.list', compact('customers', 'cities'));
 
 
+    }
+    public function validateCustomer(){
+        return request()->validate([
+            'name' => 'required|min:02|max:30',
+            'email' => 'required|email',
+            'dob' => 'required',
+        ]);
     }
 
 }

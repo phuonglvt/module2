@@ -36,6 +36,10 @@ Route::group(['prefix' => 'customers'], function () {
 
     Route::get('/search','CustomerController@search')->name('customers.search');
 
+    Route::get('post/create', 'CustomerController@create');
+
+    Route::post('post', 'CustomerController@store');
+
 });
 
 //tao group route cties

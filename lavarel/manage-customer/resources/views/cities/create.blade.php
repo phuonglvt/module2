@@ -12,7 +12,7 @@
                     @csrf
                     <div class="form-group">
                         <label>Tên tỉnh</label>
-                        <input type="text" class="form-control" name="name"  placeholder="Enter name" required>
+                        <input type="text" class="form-control" name="name" value="{{old($name)}}" placeholder="Enter name" >
                     </div>
                     <button type="submit" class="btn btn-primary">Thêm mới</button>
                     <button class="btn btn-secondary" onclick="window.history.go(-1); return false;">Hủy</button>

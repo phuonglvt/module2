@@ -3,10 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="13cd8223-e0a0-4d49-94f5-e9bb782068e7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Catalog_MVC" beforeDir="false" afterPath="$PROJECT_DIR$/../Catalog_MVC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../email-validation--prefer-dist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../email-validation--prefer-dist/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../email-validation--prefer-dist/app/Http/Controllers/IndexController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../email-validation--prefer-dist/app/Http/Controllers/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../email-validation--prefer-dist/app/Http/Controllers/PostController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../manage-customer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../manage-customer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manage-customer/app/Http/Controllers/CustomerController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../manage-customer/app/Http/Controllers/CustomerController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manage-customer/resources/views/Customers/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../manage-customer/resources/views/Customers/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manage-customer/resources/views/cities/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../manage-customer/resources/views/cities/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manage-customer/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../manage-customer/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="82" column="41" selection-start-line="82" selection-start-column="38" selection-end-line="82" selection-end-column="41" />
+            <state relative-caret-position="352">
+              <caret line="85" column="19" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -31,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FormController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
               <folding>
                 <element signature="e#40#81#0#PHP" expanded="true" />
               </folding>
@@ -41,10 +44,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Requests/FormExampleRequest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="374">
+              <caret line="31" column="27" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -155,10 +163,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1015" />
-    <option name="y" value="135" />
+    <option name="x" value="1200" />
+    <option name="y" value="61" />
     <option name="width" value="895" />
-    <option name="height" value="820" />
+    <option name="height" value="819" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -166,7 +174,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,6 +191,13 @@
               <item name="Custom-Validation" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Custom-Validation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Custom-Validation" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Custom-Validation" type="b2602c69:ProjectViewProjectNode" />
@@ -262,11 +276,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../manage-customer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../email-validation--prefer-dist" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -301,18 +316,20 @@
       <workItem from="1559010016040" duration="1185000" />
       <workItem from="1559011509156" duration="1998000" />
       <workItem from="1559016118491" duration="733000" />
-      <workItem from="1559017020115" duration="272000" />
+      <workItem from="1559017020115" duration="702000" />
+      <workItem from="1559094242557" duration="770000" />
+      <workItem from="1559095737831" duration="168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4188000" />
+    <option name="totallyTimeSpent" value="5556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23355705" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24026845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -344,6 +361,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="85" column="19" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -353,22 +377,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Requests/FormExampleRequest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="374">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="82" column="41" selection-start-line="82" selection-start-column="38" selection-end-line="82" selection-end-column="41" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FormController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
           <folding>
             <element signature="e#40#81#0#PHP" expanded="true" />
           </folding>
