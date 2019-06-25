@@ -27,10 +27,10 @@
                         <select class="form-control" name="city_id">
                             @foreach($cities as $city)
                                 <option
-                                    @if($customer->city_id == $city->id)
-                                    {{"selected"}}
-                                    @endif
-                                    value="{{$city->id}}">{{$city->name}}</option>
+                                        @if($customer->city_id == $city->id)
+                                        {{"selected"}}
+                                        @endif
+                                        value="{{$city->id}}">{{$city->name}}</option>
                             @endforeach
                         </select>
                     </div>

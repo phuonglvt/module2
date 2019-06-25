@@ -42,7 +42,7 @@ Route::get('/', function () {
 //
 //});
 
-//tao group route cties
+//tao group route cities
 //Route::group(['prefix' => 'cities'], function () {
 //    Route::get('/','CityController@index')->name('cities.index');
 //

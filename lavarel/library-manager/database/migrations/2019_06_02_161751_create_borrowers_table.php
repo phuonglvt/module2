@@ -20,10 +20,10 @@ class CreateBorrowersTable extends Migration
             $table->date('dob');
             $table->unsignedInteger('book_id');
             $table->string('class');
-            $table->date('day-borrow');
-            $table->date('day-pay');
+            $table->date('day_borrow');
+            $table->date('day_pay');
             $table->timestamps();
-            $table->foreign('book_id')->references('id')->on('books');
+//            $table->foreign('books_id')->references('id')->on('books');
         });
     }
 

@@ -36,10 +36,10 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="exampleFormControlSelect1">Tỉnh thành</label>
-                        <select class="form-control" name="city_id">
-                            @foreach($cities as $city)
-                                <option value="{{ $city->id }}">{{ $city->name }}</option>
+                        <label for="exampleFormControlSelect1">Tên sách</label>
+                        <select class="form-control" name="book_id">
+                            @foreach($books as $book)
+                                <option value="{{ $book->id }}">{{ $book->name }}</option>
                             @endforeach
                         </select>
                     </div>
