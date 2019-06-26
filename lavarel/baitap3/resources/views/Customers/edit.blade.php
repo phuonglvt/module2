@@ -16,42 +16,42 @@
 
                     <div class="form-group">
                         <label>Ngày đăng ký</label>
-                        <input type="text" class="form-control {{ $customer->dayRegistration ? 'is-danger' }}" name="dayRegistration" value="{{old('dayRegistration')}}">
+                        <input type="date" class="form-control {{ $customer->dayRegistration ? :'is-danger' }}" name="dayRegistration" value="{{old('dayRegistration')}}">
                     </div>
 
                     <div class="form-group">
                         <label>Số CMND</label>
-                        <input type="text" class="form-control {{ $customer->CMND ? 'is-danger' }}" name="CMND" value="{{old('CMND')}}">
+                        <input type="number" class="form-control {{ $customer->CMND ? :'is-danger' }}" name="CMND" value="{{old('CMND')}}">
                     </div>
 
                     <div class="form-group">
                         <label>Địa chỉ</label>
-                        <input type="text" class="form-control {{ $customer->address ? 'is-danger' }}" name="address" value="{{old('address')}}">
+                        <input type="text" class="form-control {{ $customer->address ? :'is-danger' }}" name="address" value="{{old('address')}}">
                     </div>
 
                     <div class="form-group">
                         <label>Số điện thoại</label>
-                        <input type="text" class="form-control {{ $customer->has('phone') ? 'is-danger' : '' }}" name="phone" value="{{old('phone')}}" >
+                        <input type="text" class="form-control {{ $customer->phone ? :'is-danger' }}" name="phone" value="{{old('phone')}}" >
                     </div>
 
                     <div class="form-group">
                         <label>Email</label>
-                        <input type="text" class="form-control {{ $customer->email ? 'is-danger' }}" name="email" value="{{old('email')}}">
+                        <input type="text" class="form-control {{ $customer->email ? :'is-danger' }}" name="email" value="{{old('email')}}">
                     </div>
 
                     <div class="form-group">
                         <label>Địa Chỉ Lắp Đặt</label>
-                        <input type="text" class="form-control {{ $customer->installationAddress ? 'is-danger' }}" name="installationAddress" value="{{old('installationAddress')}}">
+                        <input type="text" class="form-control {{ $customer->installationAddress ? :'is-danger' }}" name="installationAddress" value="{{old('installationAddress')}}">
                     </div>
 
                     <div class="form-group">
                         <label>Mã dịch vụ</label>
-                        <input type="text" class="form-control {{ $customer->services_id ? 'is-danger' }}" name="services_id" value="{{old('services_id')}}">
+                        <input type="text" class="form-control {{ $customer->services_id ? :'is-danger' }}" name="services_id" value="{{old('services_id')}}">
                     </div>
 
                     <div class="form-group">
                         <label>Ghi chú</label>
-                        <input type="text" class="form-control {{ $customer->note ? 'is-danger' }}" name="note" value="{{old('note')}}">
+                        <input type="text" class="form-control {{ $customer->note ? :'is-danger' }}" name="note" value="{{old('note')}}">
                     </div>
 
                     <div>

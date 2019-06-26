@@ -23,7 +23,9 @@ class CreateCustomersTable extends Migration
             $table->string('email');
             $table->string('installationAddress');
             $table->string('note');
-            $table->string('services_id');
+//            $table->string('services_id');
+//            $table->foreign('services_id')->references('id')->on('services');
+            $table->integer('services_id')->unsigned()->nullable();
 //            $table->foreign('services_id')->references('id')->on('services');
             $table->timestamps();
         });

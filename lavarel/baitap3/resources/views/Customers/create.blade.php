@@ -32,7 +32,7 @@
 
                     <div class="form-group">
                         <label>Số điện thoại</label>
-                        <input type="text" class="form-control {{ $errors->has('phone') ? 'is-danger' : '' }}" name="phone" value="{{old('phone')}}" >
+                        <input type="number" class="form-control {{ $errors->has('phone') ? 'is-danger' : '' }}" name="phone" value="{{old('phone')}}" >
                     </div>
 
                     <div class="form-group">
@@ -47,7 +47,7 @@
 
                     <div class="form-group">
                         <label>Mã dịch vụ</label>
-                        <input type="text" class="form-control {{ $errors->has('services_id') ? 'is-danger' : '' }}" name="services_id" value="{{old('services_id')}}">
+                        <input type="number" class="form-control {{ $errors->has('services_id') ? 'is-danger' : '' }}" name="services_id" value="{{old('services_id')}}">
                     </div>
 
                     <div class="form-group">
